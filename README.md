@@ -4,7 +4,7 @@ I created an e-commerce web app using PHP named "INOXI" for a company in Morocco
 
 ## Description
 
-INOXI is an e-commerce web application tailored for a Moroccan company specializing in laser technology. It enables the company to showcase their products, manage inventory, and facilitate online transactions seamlessly. Built using PHP for server-side scripting and HTML, JavaScript, and CSS for frontend development, INOXI offers a user-friendly interface and robust functionality to meet the company's specific requirements.
+INOXI is an e-commerce web application tailored for a Moroccan company specializing in laser technology. It enables the company to showcase their products, manage inventory, and facilitate online transactions seamlessly. Built using PHP for server-side scripting and HTML, JavaScript, and CSS(bootstrap) for frontend development, INOXI offers a user-friendly interface and robust functionality to meet the company's specific requirements.
 
 ## Features
 
