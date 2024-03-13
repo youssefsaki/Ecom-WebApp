@@ -1,0 +1,13 @@
+* {
+  font-family: "Open Sans", sans-serif;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.h {
+  display: block;
+  text-align: center;
+  height: 6px;
+}
